@@ -30,5 +30,7 @@ Publish the website in the LocalHost.
 
 PROGRAM:
 OUTPUT:
+<img width="1452" height="937" alt="image" src="https://github.com/user-attachments/assets/fcc11edb-1b6f-42d9-bd01-c520393333ef" />
+
 RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
